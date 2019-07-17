@@ -9,7 +9,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/benmatselby/go-azuredevops/azuredevops"
+	"github.com/crystal-construct/go-azuredevops/azuredevops"
 )
 
 const (
